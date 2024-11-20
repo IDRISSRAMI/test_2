@@ -1,1 +1,27 @@
+#include <stdio.h> 
+#include <string.h>
+typedef struct {
+
+
+    char nom [10];
+    char prenom[10];
+int age ;
+float note;
+ struct Asresse adresse;
+ 
+}perssone;
+struct Adresse{
+    char rue[50];
+    char ville [50];
+    int codePostal;
+};
+int main() {
+    strcpy (apprenant1.nom,"rami");
+strcpy (apprenant1.prenom,"idriss")
+apprenant1.age=20;
+apprenant1.note=15,5;
+strcpy(apprenant1.adresse.rue,"rue de la paix");
+strcpy(apprenat1.adresse.codepostal=75002;
+)
+}
 hello world 
